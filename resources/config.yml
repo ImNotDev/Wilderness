@@ -3,10 +3,10 @@
 # Sets coordinate ranges /wild should be bounded to.
 # range = [min, max] (closed interval)
 coordinate-ranges:
-  minx: -10000
-  maxx: 10000
-  minz: -10000
-  maxz: 10000
+  minx: -5000
+  maxx: 5000
+  minz: -5000
+  maxz: 5000
 
 # Whether to temporarily lock players off of using the command
 # while a /wild request is pending.
